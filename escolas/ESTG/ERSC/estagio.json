@@ -1,0 +1,23 @@
+ {
+        "nome": "Engenharia de Redes e Sistemas de Computadores",
+        "estagios": [
+          {
+            "id": 1,
+            "nome": "NetWorkPro",
+            "descricao": "Soluções avançadas em redes.",
+            "email": "networkpro@example.com",
+            "telefone": "123321123",
+            "morada": "Rua das Redes, 45, Viana do Castelo",
+            "coordenadas": "41.6930, -8.8440"
+          },
+          {
+            "id": 2,
+            "nome": "TechConect",
+            "descricao": "Implementação de soluções de conectividade.",
+            "email": "techconect@example.com",
+            "telefone": "321123321",
+            "morada": "Avenida da Tecnologia, 78, Braga",
+            "coordenadas": "41.5589, -8.4164"
+          }
+        ]
+      },
